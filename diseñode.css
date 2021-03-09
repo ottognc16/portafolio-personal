@@ -1,0 +1,73 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+
+    background: var(--fondo);
+	font-family: 'Open Sans', sans-serif;
+	background-color: rgb(4, 5, 49);
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+
+.logo{
+	padding: 25px;
+	width: 340px;
+	height: 280px;
+
+}
+
+
+#imagenes3{
+	
+	width: 1000px;
+	
+}
+
+
+#b{
+
+	border: 20px solid rgb(245, 76, 76);
+	color: white;
+	padding: 25px;
+    width: 340px;
+}
+
+#c{
+
+	border: 20px solid rgb(245, 76, 76);
+	color: white;
+	padding: 25px;
+    width: 340px;
+}
+
+
+#imagen1{
+padding: 25px;
+width: 340px;
+height: 280px;
+
+}
+
+#imagen2{
+	margin: auto;
+	padding: auto;
+    height: 60%;
+ width: 60%;
+}  
+
+#variedad{
+	margin: auto;
+	padding: auto;
+    width: 30%;
+}  
+    
+
